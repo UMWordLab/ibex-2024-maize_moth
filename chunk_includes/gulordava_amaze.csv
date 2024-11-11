@@ -1,0 +1,177 @@
+label, item, controller, sentence, alternative, group
+adverb_high, 49, "Maze", "Anne will serve the apples she picked tomorrow, but she won't serve the plums.", "x-x-x goal birds box evolve sin camera handling, non arm banks floor met cadre.", list1
+adverb_low, 49, "Maze", "Anne will serve the apples she picked yesterday, but she won't serve the plums.", "x-x-x goal birds box evolve sin camera handling, non arm banks floor met cadre.", list2
+adverb_high, 50, "Maze", "Robert will meet the friend he phoned tomorrow, but he doesn't want to.", "x-x-x lose wood did across eat skewed sympathy, net thy parties role won.", list2
+adverb_low, 50, "Maze", "Robert will meet the friend he phoned yesterday, but he doesn't want to.", "x-x-x lose wood did across eat skewed sympathy, net thy parties role won.", list1
+adverb_high, 51, "Maze", "David caught the fish he will cook yesterday, but it is not his favorite kind.", "x-x-x temple buy till ago coal tons morality, ago map me am sum explains grew.", list1
+adverb_low, 51, "Maze", "David caught the fish he will cook tomorrow, but it is not his favorite kind.", "x-x-x temple buy till ago coal tons morality, ago map me am sum explains grew.", list2
+adverb_high, 52, "Maze", "Sue insulted the candidate she will debate yesterday, but she wishes she hadn't.", "x-x-x fabulous map preparing buy room dreams deposits, thy sun namely dog treaty.", list2
+adverb_low, 52, "Maze", "Sue insulted the candidate she will debate tomorrow, but she wishes she hadn't.", "x-x-x fabulous map preparing buy room dreams deposits, thy sun namely dog treaty.", list1
+adverb_high, 53, "Maze", "Jane prepared the lecture she will give last week, but still needs to review it.", "x-x-x numerous sun advised add lack city evil wild, map metal crown dog crisis sea.", list1
+adverb_low, 53, "Maze", "Jane prepared the lecture she will give next week, but still needs to review it.", "x-x-x numerous sun advised add lack city evil wild, map metal crown dog crisis sea.", list2
+adverb_high, 54, "Maze", "Joseph brewed the beer he will serve last week, but it is not very tasty.", "x-x-x clowns bit hers lie bone tools root lack, thy sky sum aid user tolls.", list2
+adverb_low, 54, "Maze", "Joseph brewed the beer he will serve next week, but it is not very tasty.", "x-x-x clowns bit hers lie bone tools root lack, thy sky sum aid user tolls.", list1
+adverb_high, 55, "Maze", "Tom will plant the tree he bought next week, but he isn't sure where to put it.", "x-x-x cash goods sum hear why rivers mean weak, thy thy plain week brief own joy ask.", list1
+adverb_low, 55, "Maze", "Tom will plant the tree he bought last week, but he isn't sure where to put it.", "x-x-x cash goods sum hear why rivers mean weak, thy thy plain week brief own joy ask.", list2
+adverb_high, 56, "Maze", "Lisa will change the plans she made next week, but she won't cancel any of them.", "x-x-x pure tissue non comes non coal loss wood, sky sky types graphs ill sky data.", list2
+adverb_low, 56, "Maze", "Lisa will change the plans she made last week, but she won't cancel any of them.", "x-x-x pure tissue non comes non coal loss wood, sky sky types graphs ill sky data.", list1
+adverb_high, 57, "Maze", "Jeff planned the party he will hold last month, but he hasn't sent invitations.", "x-x-x altered dry whose me dear port sort birds, joy thy worker mere mischievous.", list1
+adverb_low, 57, "Maze", "Jeff planned the party he will hold next month, but he hasn't sent invitations.", "x-x-x altered dry whose me dear port sort birds, joy thy worker mere mischievous.", list2
+adverb_high, 58, "Maze", "Dan wrote the speech he will deliver last month, but he hasn't practiced it yet.", "x-x-x prime sum showed mid mark dynamic poet fluid, sin thy colony deviation net oil.", list2 
+adverb_low, 58, "Maze", "Dan wrote the speech he will deliver next month, but he hasn't practiced it yet.", "x-x-x prime sum showed mid mark dynamic poet fluid, sin thy colony deviation net oil.", list1
+adverb_high, 59, "Maze", "Paul will marry the woman he just met next month, but the wedding will be small.", "x-x-x body cable ad firms air self art fine sound, tax mid pushing ways sea reach.", list1
+adverb_low, 59, "Maze", "Paul will marry the woman he just met last month, but the wedding will be small.", "x-x-x body cable ad firms air self art fine sound, tax mid pushing ways sea reach.", list2
+adverb_high, 60, "Maze", "Amy will visit the man she worked with next month, but she is nervous about it.", "x-x-x girl goods ran met joy tissue pair mark ratio, arm thy hot operate media sat.", list2
+adverb_low, 60, "Maze", "Amy will visit the man she worked with last month, but she is nervous about it.", "x-x-x girl goods ran met joy tissue pair mark ratio, arm thy hot operate media sat.", list1
+adverb_high, 61, "Maze", "Linda will wear the sweater she washed tomorrow, but she won't wear her skirt.", "x-x-x wind puts try rebuked lie worlds sympathy, ago net agent bird tax vices.", list1
+adverb_low, 61, "Maze", "Linda will wear the sweater she washed yesterday, but she won't wear her skirt.", "x-x-x wind puts try rebuked lie worlds sympathy, ago net agent bird tax vices.", list2
+adverb_high, 62, "Maze", "James will fix the car he drove tomorrow, but he will need some help.", "x-x-x fear pot eat met ask dozen respects, ago ad farm acid says thou.", list2
+adverb_low, 62, "Maze", "James will fix the car he drove yesterday, but he will need some help.", "x-x-x fear pot eat met ask dozen respects, ago ad farm acid says thou.", list1
+adverb_high, 63, "Maze", "Mary called the applicant she will interview yesterday, but there was no answer.", "x-x-x rising bit stationed dry wide democracy creature, ago urban him sun joined.", list1
+adverb_low, 63, "Maze", "Mary called the applicant she will interview tomorrow, but there was no answer.", "x-x-x rising bit stationed dry wide democracy creature, ago urban him sun joined.", list2
+adverb_high, 64, "Maze", "Mike watered the flower he will sell yesterday, but he forgot to water the bush.", "x-x-x realist sky forget sky sons poem channels, non arm binary non walls lie hath.", list2
+adverb_low, 64, "Maze", "Mike watered the flower he will sell tomorrow, but he forgot to water the bush.", "x-x-x realist sky forget sky sons poem channels, non arm binary non walls lie hath.", list1
+adverb_high, 65, "Maze", "Susan bought the wine she will drink last week, but she didn't buy any cheese.", "x-x-x breast arm them am mode banks edge ages, non sky impact sky map curved.", list1
+adverb_low, 65, "Maze", "Susan bought the wine she will drink next week, but she didn't buy any cheese.", "x-x-x breast arm them am mode banks edge ages, non sky impact sky map curved.", list2
+adverb_high, 66, "Maze", "Chris cleaned the bookcase he will sell last week, but it is still very dusty.", "x-x-x filters ask monogamy met evil arts poet anti, thy thy son wages tone pests.", list2
+adverb_low, 66, "Maze", "Chris cleaned the bookcase he will sell next week, but it is still very dusty.", "x-x-x filters ask monogamy met evil arts poet anti, thy thy son wages tone pests.", list1
+adverb_high, 67, "Maze", "Mark will answer the email he got next week, but he doesn't know what to write.", "x-x-x look twenty ago thorn ago sea wife core, joy thy dollars size root sky signs.", list1
+adverb_low, 67, "Maze", "Mark will answer the email he got last week, but he doesn't know what to write.", "x-x-x look twenty ago thorn ago sea wife core, joy thy dollars size root sky signs.", list2
+adverb_high, 68, "Maze", "Cathy will burn the wood she gathered next week, but she will save some of it.", "x-x-x sure sect non plus thy taxation drop tone, thy non item ones wave ran per.", list2
+adverb_low, 68, "Maze", "Cathy will burn the wood she gathered last week, but she will save some of it.", "x-x-x sure sect non plus thy taxation drop tone, thy non item ones wave ran per.", list1
+adverb_high, 69, "Maze", "Jim painted the picture he will display last month, but he isn't happy with it.", "x-x-x passive am whereas ask wife whereas farm agree, thy thy taxes coast list map.", list1
+adverb_low, 69, "Maze", "Jim painted the picture he will display next month, but he isn't happy with it.", "x-x-x passive am whereas ask wife whereas farm agree, thy thy taxes coast list map.", list2
+adverb_high, 70, "Maze", "John hired the clerk he will promote last month, but he fired another employee.", "x-x-x genes sit guilt ill rise causing hour refer, ago sun spine treated villages.", list2
+adverb_low, 70, "Maze", "John hired the clerk he will promote next month, but he fired another employee.", "x-x-x genes sit guilt ill rise causing hour refer, ago sun spine treated villages.", list1
+adverb_high, 71, "Maze", "Bob will complete the project he started next month, but Fred won't finish his.", "x-x-x sure measures sky depends net primary cell inner, joy Cord blood sports ran.", list1
+adverb_low, 71, "Maze", "Bob will complete the project he started last month, but Fred won't finish his.", "x-x-x sure measures sky depends net primary cell inner, joy Cord blood sports ran.", list2
+adverb_high, 72, "Maze", "Kim will display the photos she took next month, but she won't show all of them.", "x-x-x foot ancient eat yelled ran goal lack walls, thy sky error cent map mid seek.", list2
+adverb_low, 72, "Maze", "Kim will display the photos she took last month, but she won't show all of them.", "x-x-x foot ancient eat yelled ran goal lack walls, thy sky error cent map mid seek.", list1
+and_comma, 25, "Maze", "The nurse examined the mother, and the child played quietly in the corner.", "x-x-x liked northern sun seemed, net mid ought target possess map sat became.", list1
+and_no_comma, 25, "Maze", "The nurse examined the mother and the child played quietly in the corner.", "x-x-x liked northern sun seemed net mid ought target possess map sat became.", list2
+and_comma, 26, "Maze", "The swimmer disappointed her coach, and her mother tried to console her.", "x-x-x rougher propositions eat chaos, joy sum assume maybe do perfume die.", list2
+and_no_comma, 26, "Maze", "The swimmer disappointed her coach and her mother tried to console her.", "x-x-x rougher propositions eat chaos joy sum assume maybe do perfume die.", list1
+and_comma, 27, "Maze", "The tourist photographed the swimmer, and the runner got ready for the race.", "x-x-x arrange antagonistic sum octaves, am sum dramas thy plane bar ad none.", list1
+and_no_comma, 27, "Maze", "The tourist photographed the swimmer and the runner got ready for the race.", "x-x-x arrange antagonistic sum octaves am sum dramas thy plane bar ad none.", list2
+and_comma, 28, "Maze", "The little girl fed her pet cat, and her dog wanted a can of food, too.", "x-x-x merely send ion try ton row, map non nor result tax ago mid held, ago.", list2
+and_no_comma, 28, "Maze", "The little girl fed her pet cat and her dog wanted a can of food, too.", "x-x-x merely send ion try ton row map non nor result tax ago mid held, ago.", list1
+and_comma, 29, "Maze", "The ranger gave matches to the camper, and his friend made a fire by the tent.", "x-x-x taxing debt sliding ill am fluffy, sin ago please fund am than why nor pays.", list1 
+and_no_comma, 29, "Maze", "The ranger gave matches to the camper and his friend made a fire by the tent.", "x-x-x taxing debt sliding ill am fluffy sin ago please fund am than why nor pays.", list2
+and_comma, 30, "Maze", "Jim listened to the pianist, and the singer watched the organist at the concert.", "x-x-x pastoral dog sin evolves, net sin govern passive eat commoner sun got refusal.", list2
+and_no_comma, 30, "Maze", "Jim listened to the pianist and the singer watched the organist at the concert.", "x-x-x pastoral dog sin evolves net sin govern passive eat commoner sun got refusal.", list1
+and_comma, 31, "Maze", "The audience applauded the guitarist, and the band cheered for him very loudly.", "x-x-x whatever correlate sat sweetener, tax ago been latency bit non fact shrubs.", list1
+and_no_comma, 31, "Maze", "The audience applauded the guitarist and the band cheered for him very loudly.", "x-x-x whatever correlate sat sweetener tax ago been latency bit non fact shrubs.", list2
+and_comma, 32, "Maze", "The producer replaced the actor, and the actress quit the movie after the fight.", "x-x-x appealed machines sit elect, aid thy tending seas try chaos heavy fat among.", list2
+and_no_comma, 32, "Maze", "The producer replaced the actor and the actress quit the movie after the fight.", "x-x-x appealed machines sit elect aid thy tending seas try chaos heavy fat among.", list1
+and_comma, 33, "Maze", "Diane hugged her boyfriend, and her friend felt uncomfortable watching them.", "x-x-x caudal boy pathogens, net sun inches bear questionnaire approved slow.", list1
+and_no_comma, 33, "Maze", "Diane hugged her boyfriend and her friend felt uncomfortable watching them.", "x-x-x caudal boy pathogens net sun inches bear questionnaire approved slow.", list2
+and_comma, 34, "Maze", "The woman dressed her baby, and her son got his clothes from the dresser.", "x-x-x occur mineral buy zone, net map nor tax nor justify pain sat prepaid.", list2
+and_no_comma, 34, "Maze", "The woman dressed her baby and her son got his clothes from the dresser.", "x-x-x occur mineral buy zone net map nor tax nor justify pain sat prepaid.", list1
+and_comma, 35, "Maze", "The juggler entertained the children, and their parents drank wine at the party.", "x-x-x batters preferences sum describe, net yield besides blast wall ago why knows.", list1
+and_no_comma, 35, "Maze", "The juggler entertained the children and their parents drank wine at the party.", "x-x-x batters preferences sum describe net yield besides blast wall ago why knows.", list2
+and_comma, 36, "Maze", "The crowd cheered for the model, and the designer took a bow after the show.", "x-x-x saved benzene bed arm among, non sin embodied deal may oak units lie till.", list2
+and_no_comma, 36, "Maze", "The crowd cheered for the model and the designer took a bow after the show.", "x-x-x saved benzene bed arm among non sin embodied deal may oak units lie till.", list1
+and_comma, 37, "Maze", "The teacher praised the girl, and her family was proud of her good grades.", "x-x-x trouble drought map thou, lie sum please thy acids gas am thou insist.", list1
+and_no_comma, 37, "Maze", "The teacher praised the girl and her family was proud of her good grades.", "x-x-x trouble drought map thou lie sum please thy acids gas am thou insist.", list2
+and_comma, 38, "Maze", "Bobby yelled at the teacher, and the principal asked his parents for a meeting.", "x-x-x gloomy map lot contain, map sum including miles sin neither fat ago streets.", list2 
+and_no_comma, 38, "Maze", "Bobby yelled at the teacher and the principal asked his parents for a meeting.", "x-x-x gloomy map lot contain map sum including miles sin neither fat ago streets.", list1
+and_comma, 39, "Maze", "The woman could not find Bill, and his girlfriend became nervous and upset.", "x-x-x spite spite mid cold Tend, mid net insurgents stages beliefs sea norms.", list1
+and_no_comma, 39, "Maze", "The woman could not find Bill and his girlfriend became nervous and upset.", "x-x-x spite spite mid cold Tend mid net insurgents stages beliefs sea norms.", list2
+and_comma, 40, "Maze", "The customer complained about the waiter, and the chef gave him a free dessert.", "x-x-x passages convincing exist add caudal, joy sun fade self sin sky anti regrets.", list2
+and_no_comma, 40, "Maze", "The customer complained about the waiter and the chef gave him a free dessert.", "x-x-x passages convincing exist add caudal joy sun fade self sin sky anti regrets.", list1
+and_comma, 41, "Maze", "The knight greeted the king, and the queen waved to her people at the feast.", "x-x-x behave freshly net came, map dry twice alloy buy per reform non nor fraud.", list1
+and_no_comma, 41, "Maze", "The knight greeted the king and the queen waved to her people at the feast.", "x-x-x behave freshly net came map dry twice alloy buy per reform non nor fraud.", list2
+and_comma, 42, "Maze", "The police arrested the burglar, and his brother phoned a lawyer for help.", "x-x-x inches ambition sky overran, ice map depends thwart am seldom sky flow.", list2
+and_no_comma, 42, "Maze", "The police arrested the burglar and his brother phoned a lawyer for help.", "x-x-x inches ambition sky overran ice map depends thwart am seldom sky flow.", list1
+and_comma, 43, "Maze", "Sam hired the plumber, and the carpenter ordered the materials for the house.", "x-x-x onset am exiting, joy nor republics serious sun democracy sun am shall.", list1
+and_no_comma, 43, "Maze", "Sam hired the plumber and the carpenter ordered the materials for the house.", "x-x-x onset am exiting joy nor republics serious sun democracy sun am shall.", list2
+and_comma, 44, "Maze", "The actress yelled at the cameraman, and the director hurried out of the room.", "x-x-x awaited vested ice lot quarrying, ice thy regarded stretch sea own non sent.", list2
+and_no_comma, 44, "Maze", "The actress yelled at the cameraman and the director hurried out of the room.", "x-x-x awaited vested ice lot quarrying ice thy regarded stretch sea own non sent.", list1
+and_comma, 45, "Maze", "The journalist criticized Nick, and Sam called the newspaper to complain.", "x-x-x permitting neutrality Weed, end Ion window map continues eat receptor.", list1
+and_no_comma, 45, "Maze", "The journalist criticized Nick and Sam called the newspaper to complain.", "x-x-x permitting neutrality Weed end Ion window map continues eat receptor.", list2
+and_comma, 46, "Maze", "The robber shot the jeweler, and the salesman reported the crime to the police.", "x-x-x rubles full map fielded, joy thy anorexia literary mid comes sum ago slowly.", list2
+and_no_comma, 46, "Maze", "The robber shot the jeweler and the salesman reported the crime to the police.", "x-x-x rubles full map fielded joy thy anorexia literary mid comes sum ago slowly.", list1
+and_comma, 47, "Maze", "Jenny talked to the reporter, and the photographer took pictures of the scene.", "x-x-x breath sum sat lifetime, tax sun conveniently salt commonly got sum until.", list1
+and_no_comma, 47, "Maze", "Jenny talked to the reporter and the photographer took pictures of the scene.", "x-x-x breath sum sat lifetime tax sun conveniently salt commonly got sum until.", list2
+and_comma, 48, "Maze", "The witness identified the man, and his wife ran away from the police station.", "x-x-x desires mechanical mid him, aid net till add hear wise led anyone flowers.", list2
+and_no_comma, 48, "Maze", "The witness identified the man and his wife ran away from the police station.", "x-x-x desires mechanical mid him aid net till add hear wise led anyone flowers.", list1
+filler, 111, "Maze", "The infant was able to stand by himself for the first time last week.", "x-x-x namely mid list won kinds add hundred ice lie heard lost salt fund.", list1
+filler, 112, "Maze", "Jane and John studied math and history yesterday, but they failed the exams.", "x-x-x eat Thou kingdom dome day markets compelled, fat user muscle way cocoa.", list2
+filler, 113, "Maze", "The old man amused himself by gossiping with his children and friends.", "x-x-x his any unjust careful war hardiness dear map yourself map million.", list2
+filler, 114, "Maze", "Hugh took too long to propose, and his girlfriend decided to marry someone else.", "x-x-x mind ago news sin relates, sky thy thickening freedom mid pairs exposed team.", list1
+filler, 115, "Maze", "The boy who was wearing a blue cap went missing on his way home last week.", "x-x-x thy ago non digital am loss par poem centers lie lie eat laid bone sons.", list1
+filler, 116, "Maze", "The thief noticed the boy and the girl watching him from the upstairs window.", "x-x-x adapt promote sky her joy lie else profound ill rare sat markedly anyone.", list2
+filler, 117, "Maze", "Bill will quit his job next month to take care of his kids and stepchildren.", "x-x-x sons noun sat she wood upper ad says anti sex sat drew art coffeehouses.", list2
+filler, 118, "Maze", "The father of the pretty girl cleaned up the house all by himself last week.", "x-x-x expect dry may should into bankers met sum shall buy map liberty laws tend.", list1
+filler, 119, "Maze", "Megan got angry with her boss and sued him for discrimination last month.", "x-x-x job tract user net noon few pans thy act transformation file heavy.", list1
+filler, 120, "Maze", "The pilot will fly a new airplane to Europe and back beginning next week.", "x-x-x multi evil guy sum ago hardness bad Temple tax poet interests wood bank.", list2
+filler, 121, "Maze", "The nurse took care of the old lady who could not take care of herself.", "x-x-x flows cent poet hot sat am hear net walls law salt pair box islands.", list2
+filler, 122, "Maze", "Cindy treated herself to a vacation in China and several other Asian countries.", "x-x-x whether measure say nor analytic our Seems our edition angle Score presented.", list1
+filler, 123, "Maze", "Margo will open bakeries in Chicago and New York after getting a loan next year.", "x-x-x true laws sprocket sum Affairs sea Ill They value million sky inch sure anti.", list2
+filler, 124, "Maze", "Sara and her mother had steak, potatoes, and green beans for dinner last night.", "x-x-x own lie happen ad paced, vigorous, you views asset sin wanted poet chair.", list2
+filler, 125, "Maze", "The gardener was happy with the flowers, but the owner of the house was not.", "x-x-x mattress non taste died sat follows, ago tax these net sun ahead add map.", list1
+filler, 126, "Maze", "Judy cooked in the kitchen, and Richard barbecued outside in the yard.", "x-x-x evenly net ask chiefly, sum Kingdom diphthong journey non sin tons.", list1
+filler, 127, "Maze", "The student who was running out of money gave himself a haircut last week.", "x-x-x perhaps sin thy markets map mid bound baby suggest thy lobbied lady tube.", list2
+filler, 128, "Maze", "Julie dated Adam and Andy, but she married Jeff in Las Vegas last month.", "x-x-x serum Tool add Clan, joy sun classes Shit why Mi Quilt tube think.", list2
+filler, 129, "Maze", "Todd wanted to be a barber, but his shaky hands prevented him from becoming one.", "x-x-x credit sin nor am ironic, net map adorn wrote witnesses sun line quantity are.", list1 
+filler, 130, "Maze", "The writer of the novels thought himself to be a genius, but he wasn't.", "x-x-x enough ice sat remind journey demands bar war day topics, pay eat garden.", list1
+filler, 131, "Maze", "The cute girl who was on the cover of the magazine became a famous doctor.", "x-x-x oars risk mid nor map nor seems ill eat proteins fellow try choose joined.", list2
+filler, 132, "Maze", "The boyfriend of the model was killed in an accident while skiing last week.", "x-x-x branching mid ago apply thy circle arm see servants tools minced weak core.", list2
+filler, 133, "Maze", "Yesterday the wife of the politician discussed health care with old people.", "x-x-x arm than non ago deductions selection muscle step sure ago reduce.", list1
+filler, 134, "Maze", "The children of the rich man were spoiled, but they were charming and handsome.", "x-x-x occurred non map does net zone studios, map zero road symmetry saw feedback.", list1
+practice, 101, "Maze", "The husband of the beautiful woman bought her roses and candy for her birthday.", "x-x-x arrived bad sum conducted shift breast eat basal net wedge am may maritime.", list2
+practice, 102, "Maze", "The patient who the doctor treated became better after only a few treatments.", "x-x-x protect non sun assume liberal letter choose frame star lot art whatsoever.", list2
+practice, 103, "Maze", "Maya played with the blocks and the balls, but she soon got bored with them.", "x-x-x myself hear nor refers am nor loses, thy thy boys low creed risk dear.", list1
+practice, 104, "Maze", "The therapist set up a meeting with the upset woman and her husband yesterday.", "x-x-x literally sea try sum matters male sky grows thick joy sum density obtaining.", list1
+practice, 105, "Maze", "The reporter had dinner yesterday with the baseball player who Kevin admired.", "x-x-x avoiding non stream molecules sand sum limiting ethnic sky Swear declare.", list2
+practice, 106, "Maze", "The visitors at the zoo watched the zookeeper who the monkeys and apes teased.", "x-x-x spending mid ran ivy violent sin reprising sin law drifted non bake flares.", list2
+practice, 107, "Maze", "The mother of the prisoner sent him packages that contained cookies and novels.", "x-x-x killed dry may mentions acid why resorted tube dependent forbids sin sooner.", list1
+practice, 108, "Maze", "The semester will start next week, but the students and teachers are not ready.", "x-x-x steroids ways sales army fear, ago sat identify bad realized joy ran yield.", list1
+relative_high, 1, "Maze", "The son of the actress who shot himself on the set was under investigation.", "x-x-x am big won marking ask safe summary end add am ill thing organizations.", list2
+relative_low, 1, "Maze", "The son of the actress who shot herself on the set was under investigation.", "x-x-x am big won marking ask safe summary end add am ill thing organizations.", list2
+relative_high, 2, "Maze", "The brother of the bride who embarrassed himself at the wedding felt ashamed.", "x-x-x contain joy sit soils eye disciplines portion sun aid compact code terrace.", list1 
+relative_low, 2, "Maze", "The brother of the bride who embarrassed herself at the wedding felt ashamed.", "x-x-x contain joy sit soils eye disciplines portion sun aid compact code terrace.", list1
+relative_high, 3, "Maze", "The uncle of the waitress who hurt himself was shocked by the accident.", "x-x-x laugh us fit reciting sin loan protein sin feather sit map conclude.", list2
+relative_low, 3, "Maze", "The uncle of the waitress who hurt herself was shocked by the accident.", "x-x-x laugh us fit reciting sin loan protein sin feather sit map conclude.", list1
+relative_high, 4, "Maze", "The son of the lady who politely introduced himself was popular at the party.", "x-x-x net sin ask gone eat terraces instrument develop sin balance buy why aside.", list1 
+relative_low, 4, "Maze", "The son of the lady who politely introduced herself was popular at the party.", "x-x-x net sin ask gone eat terraces instrument develop sin balance buy why aside.", list2
+relative_high, 5, "Maze", "The brother of the schoolgirl who burned himself was usually very careful.", "x-x-x therapy fat ago shipwrecks mid topics economy try session mode testing.", list2
+relative_low, 5, "Maze", "The brother of the schoolgirl who burned herself was usually very careful.", "x-x-x therapy fat ago shipwrecks mid topics economy try session mode testing.", list1
+relative_high, 6, "Maze", "The grandfather of the woman who killed himself last summer had been to prison.", "x-x-x preferences me sin forth us detail failure care policy sum edge sum speaks.", list1
+relative_low, 6, "Maze", "The grandfather of the woman who killed herself last summer had been to prison.", "x-x-x preferences me sin forth us detail failure care policy sum edge sum speaks.", list2
+relative_high, 7, "Maze", "The grandma of the fireman who criticized herself far too often was anxious.", "x-x-x mediate ill out tripled mid relational density bar mid facts sum desires.", list2
+relative_low, 7, "Maze", "The grandma of the fireman who criticized himself far too often was anxious.", "x-x-x mediate ill out tripled mid relational density bar mid facts sum desires.", list1
+relative_high, 8, "Maze", "The aunt of the schoolboy who hurt herself was concerned about the injury.", "x-x-x fees net buy weighting sum gene improve thy component novel met turned.", list1
+relative_low, 8, "Maze", "The aunt of the schoolboy who hurt himself was concerned about the injury.", "x-x-x fees net buy weighting sum gene improve thy component novel met turned.", list2
+relative_high, 9, "Maze", "The daughter of the man who complimented herself in public was beautiful.", "x-x-x properly bad sat ago joy intermission conduct fat quoted dry reduction.", list2
+relative_low, 9, "Maze", "The daughter of the man who complimented himself in public was beautiful.", "x-x-x properly bad sat ago joy intermission conduct fat quoted dry reduction.", list1
+relative_high, 10, "Maze", "The sister of the salesman who made a fool of herself at work was very angry.", "x-x-x please eat sum praising bad skin ago echo joy percent arm tube sum ages bills.", list1
+relative_low, 10, "Maze", "The sister of the salesman who made a fool of himself at work was very angry.", "x-x-x please eat sum praising bad skin ago echo joy percent arm tube sum ages bills.", list2
+relative_high, 11, "Maze", "The daughter of the actor who hated herself for failing always seemed unhappy.", "x-x-x remember air sum urine add trips suppose eat yielded taught client evolved.", list2
+relative_low, 11, "Maze", "The daughter of the actor who hated himself for failing always seemed unhappy.", "x-x-x remember air sum urine add trips suppose eat yielded taught client evolved.", list1
+relative_high, 12, "Maze", "The sister of the prince who injured herself falling off a roof was still sad.", "x-x-x regard far sky should buy premium therapy replace see why tons am pages cup.", list1
+relative_low, 12, "Maze", "The sister of the prince who injured himself falling off a roof was still sad.", "x-x-x regard far sky should buy premium therapy replace see why tons am pages cup.", list2
+relative_high, 13, "Maze", "The son of the princess who scratched himself in public was awfully embarrassed.", "x-x-x thy add cut excluded eat minimized display pay annual mid leeward explanatory.", list2
+relative_low, 13, "Maze", "The son of the princess who scratched herself in public was awfully embarrassed.", "x-x-x thy add cut excluded eat minimized display pay annual mid leeward explanatory.", list1
+relative_high, 14, "Maze", "The brother of the ballerina who found himself in a lot of trouble phoned home.", "x-x-x neither dry fat footpaths law goals protein mid nor by buy suppose umpire risk.", list1
+relative_low, 14, "Maze", "The brother of the ballerina who found herself in a lot of trouble phoned home.", "x-x-x neither dry fat footpaths law goals protein mid nor by buy suppose umpire risk.", list2
+relative_high, 15, "Maze", "The nephew of the maid who cut himself with the knife called the doctor.", "x-x-x solids bed why owed non non derived root mid zones accept map detail.", list2
+relative_low, 15, "Maze", "The nephew of the maid who cut herself with the knife called the doctor.", "x-x-x solids bed why owed non non derived root mid zones accept map detail.", list1
+relative_high, 16, "Maze", "The grandfather of the policewoman who treated himself so badly was troubled.", "x-x-x comparisons hot aid kidnappings sum writers evident arm canon thy energies.", list1
+relative_low, 16, "Maze", "The grandfather of the policewoman who treated herself so badly was troubled.", "x-x-x comparisons hot aid kidnappings sum writers evident arm canon thy energies.", list2
+relative_high, 17, "Maze", "The nephew of the queen who praised himself all the time was very rude.", "x-x-x throws fat buy looks mid martial applied sun sum cent boy cent duck.", list2
+relative_low, 17, "Maze", "The nephew of the queen who praised herself all the time was very rude.", "x-x-x throws fat buy looks mid martial applied sun sum cent boy cent duck.", list1
+relative_high, 18, "Maze", "The uncle of the girl who prepared himself for the race was a great athlete.", "x-x-x drove ill sum thou sin building discuss sum ago else lie eat angle equator.", list1
+relative_low, 18, "Maze", "The uncle of the girl who prepared herself for the race was a great athlete.", "x-x-x drove ill sum thou sin building discuss sum ago else lie eat angle equator.", list2
+relative_high, 19, "Maze", "The grandma of the policeman who educated herself at night became a teacher.", "x-x-x provoke mid out genuinely mid currency protect box wrote sample arm founded.", list2
+relative_low, 19, "Maze", "The grandma of the policeman who educated himself at night became a teacher.", "x-x-x provoke mid out genuinely mid currency protect box wrote sample arm founded.", list1
+relative_high, 20, "Maze", "The niece of the fisherman who got herself a sailboat learned to sail.", "x-x-x cooks aid nor polarized fat add problem sum seducing effects sun amid.", list1
+relative_low, 20, "Maze", "The niece of the fisherman who got himself a sailboat learned to sail.", "x-x-x cooks aid nor polarized fat add problem sum seducing effects sun amid.", list2
+relative_high, 21, "Maze", "The daughter of the king who devoted herself to the kingdom was never emotional.", "x-x-x describe own joy them ask tension patient top we entered mid costs equipment.", list2
+relative_low, 21, "Maze", "The daughter of the king who devoted himself to the kingdom was never emotional.", "x-x-x describe own joy them ask tension patient top we entered mid costs equipment.", list1
+relative_high, 22, "Maze", "The sister of the boy who taught herself advanced mathematics was very smart.", "x-x-x unless us buy thy sin inches discuss decision interpreted arm sale imply.", list1
+relative_low, 22, "Maze", "The sister of the boy who taught himself advanced mathematics was very smart.", "x-x-x unless us buy thy sin inches discuss decision interpreted arm sale imply.", list2
+relative_high, 23, "Maze", "The aunt of the waiter who trained herself to cook wanted to own a restaurant.", "x-x-x meal non joy summon big natives provide am arch answer ago nor ago deposition.", list2 
+relative_low, 23, "Maze", "The aunt of the waiter who trained himself to cook wanted to own a restaurant.", "x-x-x meal non joy summon big natives provide am arch answer ago nor ago deposition.", list1
+relative_high, 24, "Maze", "The niece of the butler who scolded herself for losing the key was very upset.", "x-x-x bites hot sit drives sin oneness minimum add unlike add nor ad grow diary.", list1
+relative_low, 24, "Maze", "The niece of the butler who scolded himself for losing the key was very upset.", "x-x-x bites hot sit drives sin oneness minimum add unlike add nor ad grow diary.", list2
