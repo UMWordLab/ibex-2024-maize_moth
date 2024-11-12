@@ -1,4 +1,4 @@
-label, item, controller, sentence, alternative, group
+label, num, controller, sentence, alternative, group
 adverb_high, 49, "Maze", "Anne will serve the apples she picked tomorrow, but she won't serve the plums.", "x-x-x goal birds box evolve sin camera handling, non arm banks floor met cadre.", list1
 adverb_low, 49, "Maze", "Anne will serve the apples she picked yesterday, but she won't serve the plums.", "x-x-x goal birds box evolve sin camera handling, non arm banks floor met cadre.", list2
 adverb_high, 50, "Maze", "Robert will meet the friend he phoned tomorrow, but he doesn't want to.", "x-x-x lose wood did across eat skewed sympathy, net thy parties role won.", list2

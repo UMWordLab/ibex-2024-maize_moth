@@ -72,11 +72,9 @@ Template("gulordava_amaze.csv", row => {
               .wait()
         )
         .log("counter", __counter_value_from_server__)
-        .log("item", row.item)
-        .log("cond1", row.cond1)
-        .log("cond2", row.cond2)
-        .log("cond3", row.cond3)
-        .log("cond4", row.cond4)
+        .log("label", row.label)
+        .log("num", row.num)
+        .log("controller", row.controller)
         .log("group", row.group)
         ]
     );
