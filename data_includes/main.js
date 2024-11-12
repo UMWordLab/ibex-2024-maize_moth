@@ -64,10 +64,16 @@ function modifyRunningOrder(ro) {
 Template("gulordava_amaze.csv", row => {
     items.push(
         [row.label, "PennController", newTrial(
-            newController("Maze", { s: row.sentence, a: row.alternative, redo: true, time: 1000, emess: "Incorrect. Please wait..." })
-              .print()
-              .log()
-              .wait()
+            newController("Maze", { 
+                s: row.sentence, 
+                a: row.alternative, 
+                redo: true, 
+                time: 1000, 
+                emess: "Incorrect. Please wait..." 
+            })
+            .print()
+            .log()
+            .wait()
         )
         .log("counter", __counter_value_from_server__)
         .log("label", row.label)
@@ -76,7 +82,6 @@ Template("gulordava_amaze.csv", row => {
         .log("group", row.group)
         ]
     );
-    return newTrial('_dummy_', null); // dummy trial for processing
 });
 
 var items = [
