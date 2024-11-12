@@ -65,7 +65,7 @@ function modifyRunningOrder(ro) {
 // template to load experimental stimuli from CSV file
 Template("gulordava_amaze.csv", row => {
     items.push(
-        [[row.label, row.item], "PennController", newTrial(
+        [row.label, "PennController", newTrial(
             newController("Maze", { s: row.sentence, a: row.alternative, redo: true, time: 1000, emess: "Incorrect. Please wait..." })
               .print()
               .log()
