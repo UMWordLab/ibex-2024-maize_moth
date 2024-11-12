@@ -66,10 +66,10 @@ Template("gulordava_amaze.csv", row => {
               .log()
               .wait()
         )
-        /*.log("counter", __counter_value_from_server__)
+        .log("counter", __counter_value_from_server__)
         .log("num", row.num)         
         .log("group", row.group)       
-        .log("label", row.label)*/       
+        .log("label", row.label)     
         ]
     );
     return newTrial('_dummy_', null);
