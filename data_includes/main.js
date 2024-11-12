@@ -45,7 +45,7 @@ function modifyRunningOrder(ro) {
         var item = ro[i];
 
         // only items with specific prefixes should be includes
-        if (item[0].type.startsWith("rel")|| item[0].type.startsWith("and") || item[0].type.startsWith("adverb")||item[0].type.startsWith("filler")) {
+        if (item[0].type.startsWith("relative")|| item[0].type.startsWith("and") || item[0].type.startsWith("adverb")||item[0].type.startsWith("filler")) {
             item_count++;
             new_ro.push(item);
             if (item_count % 12 === 0 && item_count < 95) { // add break every 20 items
@@ -53,9 +53,6 @@ function modifyRunningOrder(ro) {
                 if (item_count === 84) text = "End of block. Only 1 block left!";
                 else text="End of block. "+ (8 - (Math.floor(item_count / 12))) + " blocks left.";
             } new_ro[i].push(new DynamicElement("Message", {html: "<p>30-second break - stretch and look away from the screen briefly if needed.</p>", transfer: 30000 }));
-            /*                 ro[i].push(new DynamicElement("Message", 
-                              { html: "<p>30-second break - stretch and look away from the screen briefly if needed.</p>", transfer: 30000 }));
-                              */
         } else new_ro.push(item);
     } return new_ro;
 }
@@ -69,10 +66,10 @@ Template("gulordava_amaze.csv", row => {
               .log()
               .wait()
         )
-        .log("counter", __counter_value_from_server__)
+        /*.log("counter", __counter_value_from_server__)
         .log("num", row.num)         
         .log("group", row.group)       
-        .log("label", row.label)       
+        .log("label", row.label)*/       
         ]
     );
     return newTrial('_dummy_', null);
