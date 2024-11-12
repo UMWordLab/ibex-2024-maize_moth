@@ -63,25 +63,19 @@ function modifyRunningOrder(ro) {
 // template to load experimental stimuli from CSV file
 Template("gulordava_amaze.csv", row => {
     items.push(
-        [row.label, "PennController", newTrial(
-            newController("Maze", { 
-                s: row.sentence, 
-                a: row.alternative, 
-                redo: true, 
-                time: 1000, 
-                emess: "Incorrect. Please wait..." 
-            })
-            .print()
-            .log()
-            .wait()
+        [[row.label, row.num], "PennController", newTrial(
+            newController("Maze", {s: row.sentence, a: row.alternative, redo: true, time:1000, emess: "Incorrect. Please wait..."})
+              .print()
+              .log()
+              .wait()
         )
         .log("counter", __counter_value_from_server__)
-        .log("label", row.label)
-        .log("num", row.num)
-        .log("controller", row.controller)
-        .log("group", row.group)
+        .log("num", row.num)         
+        .log("group", row.group)       
+        .log("label", row.label)       
         ]
     );
+    return newTrial('_dummy_', null);
 });
 
 var items = [
