@@ -6,4 +6,6 @@ var practiceItemTypes = ["practice"]; // practice trial types
 var manualSendResults = true; // manual sending of results
 
 // default maze settings
-var defaults = [ "Maze", { redo: true, time: 1000, emess: "Incorrect. Please wait..." } ];
+var defaults = [ 
+    "Maze", { redo: true, time: 1000, emess: "Incorrect. Please wait..." } 
+];

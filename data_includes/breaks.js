@@ -19,9 +19,14 @@ function modifyRunningOrder(ro) {
             item_count++;
             new_ro.push(item);
             if (item_count % breakCt === 0 && item_count < maxItems) { // add break every 12 items
-                if (item_count === blockDim) text = "End of block. Only 1 block left!";
-                else text="End of block. "+ (totalBlocks - (Math.floor(item_count / breakCt))) + " blocks left.";
-            } ro[i].push(new DynamicElement("Message", {html: "<p>30-second break - stretch and look away from the screen briefly if needed.</p>", transfer: 30000 }));
+                if (item_count === blockDim) {
+                    text = "End of block. Only 1 block left!";
+                } else {
+                    text="End of block. "+ (totalBlocks - (Math.floor(item_count / breakCt))) + " blocks left.";
+                }
+            } 
+            ro[i].push(new DynamicElement("Message", {html: "<p>30-second break - stretch and look away from the screen briefly if needed.</p>", transfer: 30000 }));
         } else new_ro.push(item);
-    } return new_ro;
+    } 
+    return new_ro;
 }
