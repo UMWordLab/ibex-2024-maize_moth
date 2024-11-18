@@ -104,4 +104,5 @@ Template("gulordava_amaze.csv", row => {
         .log("label", row.label)     
         ]
     );
+    return newTrial('_dummy_',null);
 });
